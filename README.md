@@ -1,4 +1,4 @@
-# 🏦 Harshal Co. Bank – Streamlit Banking App
+# 🏦 Arpita Co. Bank – Streamlit Banking App
 
 A simple and secure **banking system web application** built using **Python and Streamlit**.  
 This project allows users to create a bank account, log in securely using a PIN, and perform basic banking operations like deposit, withdrawal, and balance inquiry.
